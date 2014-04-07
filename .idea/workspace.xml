@@ -2,197 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lightbox/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/alert-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/alert-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/alert.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/body-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/confirm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/error-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/error-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/fb_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/example_files/grab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/jquery/handle-vertical.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/jquery/handle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/info-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/info-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/info.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/images/jquery-lightbox-theme-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/images/jquery-lightbox-theme-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/images/jquery-lightbox-theme-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/images/jquery-lightbox-theme-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/images/jquery-lightbox-theme-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/images/jquery-lightbox-theme.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic-dark/images/jquery-lightbox-theme.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic/images/jquery-lightbox-theme.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/images/jquery-lightbox-theme.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/images/jquery-lightbox-theme.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/images/jquery-lightbox-theme.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/facebook/images/jquery-lightbox-theme.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist-dark/images/jquery-lightbox-theme.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist/images/jquery-lightbox-theme.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/images/jquery-lightbox-theme.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/images/jquery-lightbox-theme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/images/jquery-lightbox-theme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/images/jquery-lightbox-theme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/images/jquery-lightbox-theme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/facebook/images/jquery-lightbox-theme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/images/jquery-lightbox-theme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic-dark/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/facebook/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist-dark/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/example_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr1_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr2_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr3_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr4_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr5_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/images/msgGrowl_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/images/msgGrowl_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/images/msgGrowl_info.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/images/msgGrowl_success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/images/msgGrowl_warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/password.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/password_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/question-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/question-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/question-dark-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/question-dark-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/question.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/success-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/success-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tiny_grid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/twitter_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-icons_228ef1_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/user_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/validation/validation-error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/validation/validation-success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/zoom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/Application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/_meta.hjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/_navbar.hjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/charts/area.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/charts/bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/base-admin-2-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/base-admin-2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/cirque/cirque.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/cirque/cirque.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages/dashboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/charts/donut.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/faq/faq.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/faq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/faq/faq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/gallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/js/jquery-1.6.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-1.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/jquery-ui-1.10.0.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/jquery-ui-1.10.0.custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-ui-1.10.0.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/easing/jquery.easing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/flot/jquery.flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/flot/jquery.flot.orderBars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/flot/jquery.flot.pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/flot/jquery.flot.resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/hoverIntent/jquery.hoverIntent.minified.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/jquery.lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic/jquery.lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic-dark/jquery.lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/jquery.lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/jquery.lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/jquery.lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/facebook/jquery.lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist/jquery.lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist-dark/jquery.lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/jquery.lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/jquery.lightbox.ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic/jquery.lightbox.ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic-dark/jquery.lightbox.ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/jquery.lightbox.ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/jquery.lightbox.ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/jquery.lightbox.ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/facebook/jquery.lightbox.ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist/jquery.lightbox.ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist-dark/jquery.lightbox.ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/jquery.lightbox.ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/jquery.lightbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/jquery.msgbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/jquery.msgbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/jquery.msgbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/uiToTop/jquery.ui.totop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery.ui.touch-punch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/validate/jquery.validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/less-1.3.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/charts/line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/css/msgGrowl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/js/msgGrowl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/js/msgGrowl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/js/msgGrowl.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/notifications.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/charts/pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages/plans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages/pricing.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages/reports.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages/signin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/signin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/sliders.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/example_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/validation.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/routes/account.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/templates/auth.hjs" afterPath="$PROJECT_DIR$/public/templates/auth.hjs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/templates/index.hjs" afterPath="$PROJECT_DIR$/public/templates/index.hjs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/routes/index.js" afterPath="$PROJECT_DIR$/lib/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/templates/register.hjs" afterPath="$PROJECT_DIR$/public/templates/register.hjs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="boosely.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -216,7 +26,7 @@
     <file path="$PROJECT_DIR$/../njax/public/templates/_footer.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396862923115" ignored="false" />
     <file path="/_footer.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819915052" ignored="false" />
     <file path="$PROJECT_DIR$/../generator-njax/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396824506582" ignored="false" />
-    <file path="$PROJECT_DIR$/../generator-njax/.idea/workspace.xml" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396872989570" ignored="false" />
+    <file path="$PROJECT_DIR$/../generator-njax/.idea/workspace.xml" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396873543077" ignored="false" />
     <file path="$PROJECT_DIR$/../generator-njax/package.json" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396822212245" ignored="false" />
     <file path="$PROJECT_DIR$/../generator-njax/.gitignore" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396822212245" ignored="false" />
     <file path="$PROJECT_DIR$/../generator-njax/app/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396825487712" ignored="false" />
@@ -229,6 +39,7 @@
     <file path="/a.dummy" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396862222407" ignored="false" />
     <file path="/index.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396862437432" ignored="false" />
     <file path="/_navbar.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396864100416" ignored="false" />
+    <file path="/README.md" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396873524674" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +98,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="47" selection-start="65" selection-end="65" vertical-scroll-proportion="0.15267175">
+            <state line="8" column="10" selection-start="125" selection-end="125" vertical-scroll-proportion="0.3053435">
               <folding />
             </state>
           </provider>
@@ -358,7 +169,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1430" />
+    <option name="x" value="-1302" />
     <option name="y" value="764" />
     <option name="width" value="1303" />
     <option name="height" value="773" />
@@ -498,7 +309,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1430" y="764" width="1303" height="773" extended-state="6" />
+    <frame x="-1302" y="764" width="1303" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -724,7 +535,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="47" selection-start="65" selection-end="65" vertical-scroll-proportion="0.15267175">
+        <state line="8" column="10" selection-start="125" selection-end="125" vertical-scroll-proportion="0.3053435">
           <folding />
         </state>
       </provider>
