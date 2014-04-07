@@ -2,7 +2,196 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/register.hjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lightbox/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/alert-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/alert-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/alert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/body-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/confirm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/error-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/error-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/fb_btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/example_files/grab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/jquery/handle-vertical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/jquery/handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/info-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/info-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/images/jquery-lightbox-theme-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/images/jquery-lightbox-theme-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/images/jquery-lightbox-theme-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/images/jquery-lightbox-theme-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/images/jquery-lightbox-theme-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/images/jquery-lightbox-theme.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic-dark/images/jquery-lightbox-theme.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic/images/jquery-lightbox-theme.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/images/jquery-lightbox-theme.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/images/jquery-lightbox-theme.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/images/jquery-lightbox-theme.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/facebook/images/jquery-lightbox-theme.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist-dark/images/jquery-lightbox-theme.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist/images/jquery-lightbox-theme.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/images/jquery-lightbox-theme.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/images/jquery-lightbox-theme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/images/jquery-lightbox-theme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/images/jquery-lightbox-theme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/images/jquery-lightbox-theme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/facebook/images/jquery-lightbox-theme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/images/jquery-lightbox-theme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic-dark/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/facebook/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist-dark/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/example_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr1_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr2_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr3_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr4_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/lr5_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/images/msgGrowl_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/images/msgGrowl_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/images/msgGrowl_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/images/msgGrowl_success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/images/msgGrowl_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/password.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/password_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/question-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/question-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/question-dark-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/question-dark-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/images/question.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/success-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notifications/success-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tiny_grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/twitter_btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-icons_228ef1_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/signin/user_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/validation/validation-error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/validation/validation-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/gallery/zoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/Application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/_meta.hjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/_navbar.hjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/charts/area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/charts/bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/base-admin-2-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/base-admin-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/cirque/cirque.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/cirque/cirque.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/charts/donut.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/faq/faq.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/faq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/faq/faq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/js/jquery-1.6.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/jquery-ui-1.10.0.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ui-lightness/jquery-ui-1.10.0.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-ui-1.10.0.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/easing/jquery.easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/flot/jquery.flot.orderBars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/hoverIntent/jquery.hoverIntent.minified.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/jquery.lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic/jquery.lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic-dark/jquery.lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/jquery.lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/jquery.lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/jquery.lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/facebook/jquery.lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist/jquery.lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist-dark/jquery.lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/jquery.lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/carbono/jquery.lightbox.ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic/jquery.lightbox.ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/classic-dark/jquery.lightbox.ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/default/jquery.lightbox.ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution/jquery.lightbox.ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/evolution-dark/jquery.lightbox.ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/facebook/jquery.lightbox.ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist/jquery.lightbox.ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/minimalist-dark/jquery.lightbox.ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/themes/white-green/jquery.lightbox.ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/lightbox/jquery.lightbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/jquery.msgbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/jquery.msgbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgbox/jquery.msgbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/uiToTop/jquery.ui.totop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/validate/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/less-1.3.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/charts/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/css/msgGrowl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/js/msgGrowl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/js/msgGrowl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/js/msgGrowl.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/charts/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages/plans.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages/pricing.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages/reports.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages/signin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/signin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/sliders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/msgGrowl/example_files/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pages/validation.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/routes/account.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/templates/auth.hjs" afterPath="$PROJECT_DIR$/public/templates/auth.hjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/templates/index.hjs" afterPath="$PROJECT_DIR$/public/templates/index.hjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/routes/index.js" afterPath="$PROJECT_DIR$/lib/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/templates/register.hjs" afterPath="$PROJECT_DIR$/public/templates/register.hjs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="boosely.iws" />
@@ -10,13 +199,13 @@
     <file path="/Dummy.txt" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396821677211" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/app.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396813499411" ignored="false" />
     <file path="/app.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396813492394" ignored="false" />
-    <file path="/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819747802" ignored="false" />
-    <file path="$PROJECT_DIR$/../njax/package.json" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819271028" ignored="false" />
+    <file path="/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396862701714" ignored="false" />
+    <file path="$PROJECT_DIR$/../njax/package.json" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829969725" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396814157277" ignored="false" />
     <file path="/njax.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829836432" ignored="false" />
-    <file path="$PROJECT_DIR$/../njax/lib/routes/auth.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829843598" ignored="false" />
-    <file path="/auth.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829791587" ignored="false" />
-    <file path="/auth.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396820002159" ignored="false" />
+    <file path="$PROJECT_DIR$/../njax/lib/routes/auth.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396864820150" ignored="false" />
+    <file path="/auth.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396864716666" ignored="false" />
+    <file path="/auth.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396863610719" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/lib/modules/bootstrap/public/templates/_meta.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396817163990" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/lib/routes/middleware.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396818029159" ignored="false" />
     <file path="/middleware.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396818024769" ignored="false" />
@@ -24,18 +213,22 @@
     <file path="/express.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819358478" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/public/templates/_header.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819944474" ignored="false" />
     <file path="/_header.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819943927" ignored="false" />
-    <file path="$PROJECT_DIR$/../njax/public/templates/_footer.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819915052" ignored="false" />
+    <file path="$PROJECT_DIR$/../njax/public/templates/_footer.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396862923115" ignored="false" />
     <file path="/_footer.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819915052" ignored="false" />
     <file path="$PROJECT_DIR$/../generator-njax/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396824506582" ignored="false" />
-    <file path="$PROJECT_DIR$/../generator-njax/.idea/workspace.xml" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829841570" ignored="false" />
+    <file path="$PROJECT_DIR$/../generator-njax/.idea/workspace.xml" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396872989570" ignored="false" />
     <file path="$PROJECT_DIR$/../generator-njax/package.json" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396822212245" ignored="false" />
     <file path="$PROJECT_DIR$/../generator-njax/.gitignore" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396822212245" ignored="false" />
     <file path="$PROJECT_DIR$/../generator-njax/app/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396825487712" ignored="false" />
     <file path="$PROJECT_DIR$/../generator-njax/app/templates/_schema.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396822386389" ignored="false" />
     <file path="/account.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396828061429" ignored="false" />
     <file path="$PROJECT_DIR$/../generator-njax/app/templates/_routes.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396825396498" ignored="false" />
-    <file path="/register.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829770756" ignored="false" />
-    <file path="$PROJECT_DIR$/../njax/lib/njax.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829838538" ignored="false" />
+    <file path="/register.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396864402509" ignored="false" />
+    <file path="$PROJECT_DIR$/../njax/lib/njax.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396864186838" ignored="false" />
+    <file path="/package.json" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829966727" ignored="false" />
+    <file path="/a.dummy" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396862222407" ignored="false" />
+    <file path="/index.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396862437432" ignored="false" />
+    <file path="/_navbar.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396864100416" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +248,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="auth.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="auth.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="41" selection-start="236" selection-end="248" vertical-scroll-proportion="0.16304348">
+            <state line="29" column="30" selection-start="817" selection-end="817" vertical-scroll-proportion="-10.52">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_navbar.hjs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/_navbar.hjs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="33" selection-start="709" selection-end="709" vertical-scroll-proportion="-8.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.hjs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/index.hjs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="7" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.hjs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/auth.hjs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="24" selection-start="328" selection-end="328" vertical-scroll-proportion="-3.0612245">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="47" selection-start="65" selection-end="65" vertical-scroll-proportion="0.15267175">
               <folding />
             </state>
           </provider>
@@ -67,7 +296,25 @@
       <file leaf-file-name="register.hjs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/templates/register.hjs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="84" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.5">
+            <state line="28" column="24" selection-start="603" selection-end="737" vertical-scroll-proportion="-8.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_meta.hjs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/_meta.hjs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="59" selection-start="1044" selection-end="1044" vertical-scroll-proportion="-10.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="2" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,19 +338,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/routes/index.js" />
-        <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/../njax/node_modules/hjs/lib/express.js" />
-        <option value="$PROJECT_DIR$/node_modules/njax-bootstrap/public/templates/_theme_footer.hjs" />
-        <option value="$PROJECT_DIR$/node_modules/njax-bootstrap/public/templates/_theme_header.hjs" />
         <option value="$PROJECT_DIR$/node_modules/njax-bootstrap/index.js" />
-        <option value="$PROJECT_DIR$/public/templates/auth.hjs" />
         <option value="$PROJECT_DIR$/lib/routes/account.js" />
         <option value="$PROJECT_DIR$/lib/model/account.js" />
         <option value="$PROJECT_DIR$/../njax/lib/model/account.js" />
         <option value="$PROJECT_DIR$/../njax/lib/njax.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lib/routes/index.js" />
+        <option value="$PROJECT_DIR$/public/templates/_meta.js" />
+        <option value="$PROJECT_DIR$/public/templates/_meta.hjs" />
+        <option value="$PROJECT_DIR$/public/templates/index.hjs" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/public/templates/_navbar.hjs" />
         <option value="$PROJECT_DIR$/public/templates/register.hjs" />
         <option value="$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js" />
+        <option value="$PROJECT_DIR$/public/templates/auth.hjs" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -158,66 +408,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boosely" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boosely" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boosely" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boosely" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boosely" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boosely" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boosely" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boosely" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -269,10 +459,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/templates" />
       <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
       <recent name="$PROJECT_DIR$/node_modules/njax-bootstrap/public/templates" />
       <recent name="$PROJECT_DIR$/node_modules/njax-bootstrap/public" />
       <recent name="$PROJECT_DIR$/node_modules/njax-bootstrap" />
@@ -308,21 +502,21 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.6704" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -405,7 +599,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js</url>
-          <line>41</line>
+          <line>50</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
@@ -415,7 +609,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js</url>
-          <line>21</line>
+          <line>24</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
@@ -423,97 +617,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../njax-hjs/lib/express.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.3323782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/njax-bootstrap/public/templates/_theme_header.hjs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/auth.hjs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="41" selection-start="56" selection-end="56" vertical-scroll-proportion="0.040650405">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/routes/account.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="31" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/njax-bootstrap/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="37" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="25" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../njax/lib/model/account.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../njax/lib/njax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="32" selection-start="1556" selection-end="1556" vertical-scroll-proportion="0.23664123">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/njax/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/njax/lib/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../njax/node_modules/passport-local-mongoose/lib/passport-local-mongoose.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1441" selection-end="1441" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.WebIde60/system/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="337" column="14" selection-start="9525" selection-end="9525" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../njax-hjs/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="45" selection-start="655" selection-end="655" vertical-scroll-proportion="0.114503816">
@@ -521,16 +624,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/register.hjs">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="84" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.5">
+        <state line="1" column="20" selection-start="22" selection-end="22" vertical-scroll-proportion="0.040650405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="30" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/pages/plans.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/index.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="7" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/_meta.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="59" selection-start="1044" selection-end="1044" vertical-scroll-proportion="-10.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/theme/theme/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="28" selection-start="1668" selection-end="3936" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/_navbar.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="33" selection-start="709" selection-end="709" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/theme/theme/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="38" selection-start="1802" selection-end="3842" vertical-scroll-proportion="0.5522388">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/charts/bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../njax/node_modules/passport/lib/passport/middleware/authenticate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="10" selection-start="4225" selection-end="4235" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="41" selection-start="236" selection-end="248" vertical-scroll-proportion="0.16304348">
+        <state line="29" column="30" selection-start="817" selection-end="817" vertical-scroll-proportion="-10.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/register.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="24" selection-start="603" selection-end="737" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/auth.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="24" selection-start="328" selection-end="328" vertical-scroll-proportion="-3.0612245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="47" selection-start="65" selection-end="65" vertical-scroll-proportion="0.15267175">
           <folding />
         </state>
       </provider>

@@ -4,8 +4,9 @@ var app = njax({
     app_dir: __dirname
 });
 
-njaxBootstrap(app);
-
+//njaxBootstrap(app);
+app.locals.partials._navbar = '_navbar';
+app.locals.partials._meta = '_meta';
 var routes = require(__dirname + '/lib/routes');
 routes(app)
 app.start();
