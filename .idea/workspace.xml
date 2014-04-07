@@ -2,34 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/auth.hjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/index.hjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/register.hjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="boosely.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396812426696" ignored="false" />
+    <file path="/Dummy.txt" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396821677211" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/app.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396813499411" ignored="false" />
     <file path="/app.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396813492394" ignored="false" />
     <file path="/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819747802" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/package.json" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819271028" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396814157277" ignored="false" />
-    <file path="/njax.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819438575" ignored="false" />
-    <file path="$PROJECT_DIR$/../njax/lib/routes/auth.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396816809132" ignored="false" />
-    <file path="/auth.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396816809132" ignored="false" />
+    <file path="/njax.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829836432" ignored="false" />
+    <file path="$PROJECT_DIR$/../njax/lib/routes/auth.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829843598" ignored="false" />
+    <file path="/auth.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829791587" ignored="false" />
     <file path="/auth.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396820002159" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/lib/modules/bootstrap/public/templates/_meta.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396817163990" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/lib/routes/middleware.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396818029159" ignored="false" />
     <file path="/middleware.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396818024769" ignored="false" />
-    <file path="$PROJECT_DIR$/../njax/lib/njax.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819516748" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/node_modules/hjs/lib/express.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819358885" ignored="false" />
     <file path="/express.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819358478" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/public/templates/_header.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819944474" ignored="false" />
     <file path="/_header.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819943927" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/public/templates/_footer.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819915052" ignored="false" />
     <file path="/_footer.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396819915052" ignored="false" />
+    <file path="$PROJECT_DIR$/../generator-njax/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396824506582" ignored="false" />
+    <file path="$PROJECT_DIR$/../generator-njax/.idea/workspace.xml" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829841570" ignored="false" />
+    <file path="$PROJECT_DIR$/../generator-njax/package.json" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396822212245" ignored="false" />
+    <file path="$PROJECT_DIR$/../generator-njax/.gitignore" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396822212245" ignored="false" />
+    <file path="$PROJECT_DIR$/../generator-njax/app/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396825487712" ignored="false" />
+    <file path="$PROJECT_DIR$/../generator-njax/app/templates/_schema.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396822386389" ignored="false" />
+    <file path="/account.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396828061429" ignored="false" />
+    <file path="$PROJECT_DIR$/../generator-njax/app/templates/_routes.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396825396498" ignored="false" />
+    <file path="/register.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829770756" ignored="false" />
+    <file path="$PROJECT_DIR$/../njax/lib/njax.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396829838538" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,37 +55,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.js">
+      <file leaf-file-name="auth.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+            <state line="10" column="41" selection-start="236" selection-end="248" vertical-scroll-proportion="0.16304348">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/njax-bootstrap/index.js">
+      <file leaf-file-name="register.hjs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/register.hjs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="37" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/routes/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="25" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth.hjs" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/templates/auth.hjs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="41" selection-start="56" selection-end="56" vertical-scroll-proportion="0.040650405">
+            <state line="4" column="84" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
@@ -103,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../njax/lib/njax.js" />
         <option value="$PROJECT_DIR$/lib/routes/index.js" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/../njax/node_modules/hjs/lib/express.js" />
@@ -111,6 +98,12 @@
         <option value="$PROJECT_DIR$/node_modules/njax-bootstrap/public/templates/_theme_header.hjs" />
         <option value="$PROJECT_DIR$/node_modules/njax-bootstrap/index.js" />
         <option value="$PROJECT_DIR$/public/templates/auth.hjs" />
+        <option value="$PROJECT_DIR$/lib/routes/account.js" />
+        <option value="$PROJECT_DIR$/lib/model/account.js" />
+        <option value="$PROJECT_DIR$/../njax/lib/model/account.js" />
+        <option value="$PROJECT_DIR$/../njax/lib/njax.js" />
+        <option value="$PROJECT_DIR$/public/templates/register.hjs" />
+        <option value="$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js" />
       </list>
     </option>
   </component>
@@ -175,32 +168,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="njax-bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boosely" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boosely" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="njax-bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -219,7 +186,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boosely" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boosely" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boosely" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boosely" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -231,7 +226,7 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../generator-njax" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -274,6 +269,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/templates" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -322,7 +318,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -407,63 +403,29 @@
           <line>64</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/njax/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="158" selection-end="158" vertical-scroll-proportion="0.3053435">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../njax/lib/njax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="29" selection-start="1059" selection-end="1059" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/njax-bootstrap/public/templates/_theme_footer.hjs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="54" selection-start="299" selection-end="299" vertical-scroll-proportion="-3.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.WebIde60/system/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/fs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="283" column="14" selection-start="7828" selection-end="7828" vertical-scroll-proportion="0.37535816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../njax-hjs/lib/express.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="65" column="0" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.3323782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="25" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -475,6 +437,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/auth.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="41" selection-start="56" selection-end="56" vertical-scroll-proportion="0.040650405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/routes/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="31" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/njax-bootstrap/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="37" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
@@ -482,9 +465,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/auth.hjs">
+    <entry file="file://$PROJECT_DIR$/lib/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="41" selection-start="56" selection-end="56" vertical-scroll-proportion="0.040650405">
+        <state line="2" column="25" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../njax/lib/model/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../njax/lib/njax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="32" selection-start="1556" selection-end="1556" vertical-scroll-proportion="0.23664123">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/njax/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/njax/lib/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../njax/node_modules/passport-local-mongoose/lib/passport-local-mongoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="1441" selection-end="1441" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.WebIde60/system/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="337" column="14" selection-start="9525" selection-end="9525" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../njax-hjs/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="45" selection-start="655" selection-end="655" vertical-scroll-proportion="0.114503816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/register.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="84" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/njax/lib/routes/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="41" selection-start="236" selection-end="248" vertical-scroll-proportion="0.16304348">
           <folding />
         </state>
       </provider>
