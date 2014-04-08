@@ -21,7 +21,7 @@
 
                 <div class="field">
                     <label for="username">Email:</label>
-                    <input type="text" id="username" name="email" value="" placeholder="your@email.com" class="login username-field" />
+                    <input type="text" id="username" name="username" value="" placeholder="your@email.com" class="login username-field" />
                 </div> <!-- /field -->
 
                 <div class="field">

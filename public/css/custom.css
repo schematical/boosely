@@ -7,3 +7,30 @@ Last change:	03/25/2013
 Assigned to:	You
 
 -------------------------------------------------------------------*/
+.section{
+    z-index:-2;
+    /*    position:absolute;
+        left:0;
+        top:0;*/
+    /* content: url('path/to/image.ext');*/
+    display: block;
+    position:relative;
+    min-height: 400Px;
+    background-size: cover;
+}
+.section-inner {
+    content: "";
+    background-color:#0000FF;
+    opacity:0.1;
+
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+.section-inner:hover {
+    opacity:0.6;
+}
+

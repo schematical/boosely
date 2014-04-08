@@ -1,0 +1,14 @@
+<div class='row section' style='background-image: url("https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/10170722_638121156259282_1973353438_n.jpg");'>
+    <div class='section-inner'></div>
+    <div class='span10 offset2'>
+        <div class='row'>
+            <div class='span3'>
+                <h1>{{ account.name }}</h1>
+            </div>
+            <div class='span6'>
+
+
+            </div>
+        </div>
+    </div>
+</div>

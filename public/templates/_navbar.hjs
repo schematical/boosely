@@ -14,7 +14,16 @@
 
             <div class="nav-collapse">
                 <ul class="nav pull-right">
+                    {{# user }}
+                    <li class="">
+                        <a href="/{{ hash }}" class="">
+                           {{ email }}
+                        </a>
 
+                    </li>
+
+                    {{/ user }}
+                    {{^ user }}
                     <li class="">
                         <a href="/register" class="">
                             Create an Account
@@ -22,13 +31,7 @@
 
                     </li>
 
-                    <li class="">
-                        <a href="/" class="">
-                            <i class="icon-chevron-left"></i>
-                            Back to Homepage
-                        </a>
-
-                    </li>
+                    {{/ user }}
                 </ul>
 
             </div>
