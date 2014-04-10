@@ -38,7 +38,7 @@
                     </div> <!-- /name -->
                     <div class="field">
                         <label for="name">Photo:</label>
-                        <input type="text" id="photo" name="photo" placeholder="Photo" class="login name-field" />
+                        <input type="file" id="photo" name="photo" placeholder="Photo" class="login name-field" />
                     </div> <!-- /name -->
 
                 </div> <!-- /login-fields -->
