@@ -3,4 +3,5 @@
     {{# accounts }}
         {{> _account }}
     {{/ accounts }}
+    {{> _meta_footer }}
 {{> _footer }}

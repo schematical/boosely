@@ -1,5 +1,5 @@
 {{> _header }}
-
+    {{> _navbar }}
 
 
     <div class="account-container stacked">
@@ -20,16 +20,16 @@
 
                     <div class="field">
                         <label for="hash">Instigram Account Id:</label>
-                        <input type="text" id="hash" name="email" value="" placeholder="#blah" class="login hash-field" />
+                        <input type="text" id="hash" name="email" value="" placeholder="#blah" class="login hash-field" value='{{ user.username}}' />
                     </div> <!-- /field -->
 
                     <div class="field">
                         <label for="name">Business Name:</label>
-                        <input type="text" id="name" name="name" value="" placeholder="Business Name" class="login name-field"/>
+                        <input type="text" id="name" name="name" value="" placeholder="Business Name" class="login name-field" value='{{ user.name }}' />
                     </div> <!-- /name -->
                     <div class="field">
                         <label for="name">Description:</label>
-                        <textarea id="notes" name="notes" value="" placeholder="Description:" class="login name-field"></textarea>
+                        <textarea id="notes" name="notes" value="" placeholder="Description:" class="login name-field" value='{{ user.notes }}'></textarea>
                     </div> <!-- /name -->
 
                 </div> <!-- /login-fields -->
