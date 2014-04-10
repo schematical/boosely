@@ -8,7 +8,12 @@
 
             <form action="/edit" method="post">
 
-                <h1>Your Account</h1>
+                <h1>Your Profile</h1>
+                {{^ user }}
+                <div class='alert alert-danger'>
+                    Missing user?
+                </div>
+                {{/ user }}
                 {{# error }}
                 <div class='alert alert-danger'>
                     {{ message }}
@@ -16,32 +21,33 @@
                 {{/ error }}
                 <div class="login-fields">
 
-                    <p>Sign in using your registered account:</p>
+                    <p>Edit your profile:</p>
 
                     <div class="field">
                         <label for="hash">Instigram Account Id:</label>
-                        <input type="text" id="hash" name="email" value="" placeholder="#blah" class="login hash-field" value='{{ user.username}}' />
+                        <input type="text" id="hash" name="username" placeholder="#blah" class="login hash-field" value='{{ user.username}}' />
                     </div> <!-- /field -->
 
                     <div class="field">
                         <label for="name">Business Name:</label>
-                        <input type="text" id="name" name="name" value="" placeholder="Business Name" class="login name-field" value='{{ user.name }}' />
+                        <input type="text" id="name" name="name" placeholder="Business Name" class="login name-field" value='{{ user.name }}' />
                     </div> <!-- /name -->
                     <div class="field">
                         <label for="name">Description:</label>
-                        <textarea id="notes" name="notes" value="" placeholder="Description:" class="login name-field" value='{{ user.notes }}'></textarea>
+                        <textarea id="notes" name="notes" placeholder="Description:" class="login name-field" value='{{ user.notes }}' style='width: 100%;' cols='200' rows='20'></textarea>
+                    </div> <!-- /name -->
+                    <div class="field">
+                        <label for="name">Photo:</label>
+                        <input type="text" id="photo" name="photo" placeholder="Photo" class="login name-field" />
                     </div> <!-- /name -->
 
                 </div> <!-- /login-fields -->
 
                 <div class="login-actions">
 
-                    <span class="login-checkbox">
-                        <input id="Field" name="Field" type="checkbox" class="field login-checkbox" value="First Choice" tabindex="4" />
-                        <label class="choice" for="Field">Keep me signed in</label>
-                    </span>
 
-                    <button class="button btn btn-warning btn-large">Sign In</button>
+
+                    <button class="button btn btn-warning btn-large">Save</button>
 
                 </div> <!-- .actions -->
 
