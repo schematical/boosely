@@ -9,6 +9,7 @@
         "async" : "*",
         "underscore" : "*",
         "instagram-node": "*",
+        "markdown":"*",
         "njax": "git://git@github.com:schematical/njax.git#master",
         "njax-bootstrap": "git://git@github.com:schematical/njax-bootstrap.git#master"
 

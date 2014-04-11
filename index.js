@@ -1,5 +1,6 @@
 var async = require('async');
 var _ = require('underscore');
+
 var njax = require('njax');
 var njaxBootstrap = require('njax-bootstrap');
 var app = njax({

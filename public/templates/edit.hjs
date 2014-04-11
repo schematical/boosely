@@ -6,7 +6,7 @@
 
         <div class="content clearfix">
 
-            <form action="/edit" method="post">
+            <form action="/edit" method="post"  enctype="multipart/form-data">
 
                 <h1>Your Profile</h1>
                 {{^ user }}
@@ -24,8 +24,8 @@
                     <p>Edit your profile:</p>
 
                     <div class="field">
-                        <label for="hash">Instigram Account Id:</label>
-                        <input type="text" id="hash" name="username" placeholder="#blah" class="login hash-field" value='{{ user.username}}' />
+                        <label for="username">Instigram Account Id:</label>
+                        <input type="text" id="username" name="username" placeholder="#blah" class="" value='{{ user.username}}' />
                     </div> <!-- /field -->
 
                     <div class="field">
@@ -33,14 +33,26 @@
                         <input type="text" id="name" name="name" placeholder="Business Name" class="login name-field" value='{{ user.name }}' />
                     </div> <!-- /name -->
                     <div class="field">
-                        <label for="name">Description:</label>
-                        <textarea id="notes" name="notes" placeholder="Description:" class="login name-field" value='{{ user.notes }}' style='width: 100%;' cols='200' rows='20'></textarea>
+                        <label for="name">Next Special:</label>
+                        <p>
+                            year-month-day hour:minute:00
+                        </p>
+                        <input type="datetime" id="active_date" name="active_date" placeholder="Next Special" class="" value='{{ user.active_date }}' />
+                    </div> <!-- /name -->
+
+                    <div class="field">
+                        <label for="notes">Description:</label>
+                        <p>this uses <a href='http://daringfireball.net/projects/markdown/syntax'>Markdown Syntax</a></p>
+                        <textarea id="notes" name="notes" placeholder="Description:" class="login name-field" style='width: 100%;' cols='200' rows='20'>{{ user.notes }}</textarea>
                     </div> <!-- /name -->
                     <div class="field">
                         <label for="name">Photo:</label>
+                        <p>
+                            Upload a high definition image to be used as the background for the Vendor. Make sure the main subject is in the upper middle of the image.
+                        </p>
                         <input type="file" id="photo" name="photo" placeholder="Photo" class="login name-field" />
                     </div> <!-- /name -->
-
+                    <img class="img-polaroid" src="/uploads/{{ user.bkgd_image }}" />
                 </div> <!-- /login-fields -->
 
                 <div class="login-actions">
