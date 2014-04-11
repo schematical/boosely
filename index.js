@@ -15,10 +15,14 @@ app.locals.partials._navbar = '_navbar';
 app.locals.partials._meta = '_meta';
 app.locals.partials._account = '_account';
 app.locals.partials._meta_footer = '_meta_footer';
+app.locals.partials._modal = '_modal';
 app.instagram = require('./lib/modules/instagram');
 app.use(function(req, res, next){
     async.series([
         function(cb){
+
+            return next();
+/*
             //Shitty hack
             if(req.user){
                 return next();
@@ -30,7 +34,7 @@ app.use(function(req, res, next){
                     return cb();
                 });
 
-            })
+            })*/
 
         }
     ],
@@ -39,9 +43,9 @@ app.use(function(req, res, next){
 
 
 })
-var _timeout = require('./lib/modules/timeout')(app);
-setTimeout(_timeout, 5* 60 * 1000);
-_timeout();
+app._refresh_locals = require('./lib/modules/timeout')(app);
+setTimeout(app._refresh_locals, 5* 60 * 1000);
+app._refresh_locals();
 
 
 var routes = require(__dirname + '/lib/routes');
