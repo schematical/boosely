@@ -55,7 +55,9 @@ window.boosley = function(){
         e.preventDefault();
         var src = jThis.attr('href');
         console.log(src);
-        $('#img-modal').attr('src',src);
+        setTimeout(function(){
+            $('#img-modal').attr('src',src);
+        }, 1000)
         $('#modal-caption').text(jThis.attr('data-caption'));
         $('#div-modal').modal('show')
     })
