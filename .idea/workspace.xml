@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/modules/timeout.js" afterPath="$PROJECT_DIR$/lib/modules/timeout.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="boosely.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +35,7 @@
     <file path="/register.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396864402509" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/lib/njax.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396959881964" ignored="false" />
     <file path="/package.json" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397128164173" ignored="false" />
-    <file path="/a.dummy" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397257540989" ignored="false" />
+    <file path="/a.dummy" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397257863167" ignored="false" />
     <file path="/index.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397241205541" ignored="false" />
     <file path="/_navbar.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397242079779" ignored="false" />
     <file path="/README.md" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396873524674" ignored="false" />
@@ -54,7 +53,7 @@
     <file path="$PROJECT_DIR$/../njax/node_modules/passport-local-mongoose/lib/passport-local-mongoose.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396957258473" ignored="false" />
     <file path="/_account.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397238444645" ignored="false" />
     <file path="/instagram.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397127286844" ignored="false" />
-    <file path="/timeout.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397257604094" ignored="false" />
+    <file path="/timeout.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397257873697" ignored="false" />
     <file path="/main.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397241510973" ignored="false" />
     <file path="/_meta.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397216987277" ignored="false" />
     <file path="/_meta_footer.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397217013887" ignored="false" />
@@ -96,7 +95,7 @@
       <file leaf-file-name="timeout.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/modules/timeout.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="8" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.06615776">
+            <state line="41" column="64" selection-start="1584" selection-end="1584" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
@@ -520,7 +519,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/modules/timeout.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="8" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.06615776">
+        <state line="41" column="64" selection-start="1584" selection-end="1584" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
