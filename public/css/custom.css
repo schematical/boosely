@@ -32,6 +32,7 @@ body{
     position: absolute;
     z-index: -10;
     background-size: cover;
+    background-position-y: -697Px;
 }
 .section-inner {
 

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" name="Default" comment="" />
+    <list default="true" id="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/custom.css" afterPath="$PROJECT_DIR$/public/css/custom.css" />
+    </list>
     <ignored path="boosely.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397238013484" ignored="false" />
@@ -38,7 +40,7 @@
     <file path="/_navbar.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397242079779" ignored="false" />
     <file path="/README.md" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396873524674" ignored="false" />
     <file path="/_account.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397241711850" ignored="false" />
-    <file path="/custom.css" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397241890639" ignored="false" />
+    <file path="/custom.css" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397259374723" ignored="false" />
     <file path="/edit.hjs" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397216540204" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/lib/routes/edit.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396918865218" ignored="false" />
     <file path="$PROJECT_DIR$/../njax/lib/routes/index.js" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1396918846635" ignored="false" />
@@ -117,10 +119,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="njax.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="njax.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/njax/lib/njax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="56" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.3129771">
+            <state line="42" column="56" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="17" selection-start="533" selection-end="533" vertical-scroll-proportion="0.54198474">
               <folding />
             </state>
           </provider>
@@ -150,7 +161,6 @@
         <option value="$PROJECT_DIR$/public/templates/_modal.hjs" />
         <option value="$PROJECT_DIR$/public/js/main.js" />
         <option value="$PROJECT_DIR$/public/templates/_account.hjs" />
-        <option value="$PROJECT_DIR$/public/css/custom.css" />
         <option value="$PROJECT_DIR$/public/templates/_navbar.hjs" />
         <option value="$PROJECT_DIR$/node_modules/njax/package.json" />
         <option value="$PROJECT_DIR$/node_modules/njax-bootstrap/package.json" />
@@ -160,6 +170,7 @@
         <option value="$PROJECT_DIR$/lib/modules/timeout.js" />
         <option value="$PROJECT_DIR$/lib/routes/index.js" />
         <option value="$PROJECT_DIR$/node_modules/njax/lib/njax.js" />
+        <option value="$PROJECT_DIR$/public/css/custom.css" />
       </list>
     </option>
   </component>
@@ -224,7 +235,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -238,11 +249,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="njax" />
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,15 +267,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="njax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -519,13 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="86" selection-start="867" selection-end="867" vertical-scroll-proportion="0.2977099">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/templates/_navbar.hjs">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="69" selection-start="1531" selection-end="1531" vertical-scroll-proportion="0.699187">
@@ -598,7 +598,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/njax/lib/njax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="56" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.3129771">
+        <state line="42" column="56" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="17" selection-start="533" selection-end="533" vertical-scroll-proportion="0.54198474">
           <folding />
         </state>
       </provider>
