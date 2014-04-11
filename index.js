@@ -7,7 +7,8 @@ var app = njax({
     app_dir: __dirname,
     model:{
         account_plugin: require('./lib/model/_account')
-    }
+    },
+    port:3020
 });
 
 //njaxBootstrap(app);
