@@ -34,9 +34,15 @@
 
                     {{/ user }}
                     {{^ user }}
-                    <li class="">
+                    <!--<li class="">
                         <a href="/register" class="">
                             Create an Account
+                        </a>
+
+                    </li>-->
+                    <li class="">
+                        <a href="http://sethjbraddock.wix.com/boozely" class="">
+                           About
                         </a>
 
                     </li>
