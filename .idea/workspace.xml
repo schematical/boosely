@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/routes/index.js" afterPath="$PROJECT_DIR$/lib/routes/index.js" />
-    </list>
+    <list default="true" id="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" name="Default" comment="" />
     <ignored path="boosely.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="a82b3e27-d054-49a2-a8c2-7dd0d82cb963" time="1397238013484" ignored="false" />
@@ -122,7 +120,7 @@
       <file leaf-file-name="njax.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_modules/njax/lib/njax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="56" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.6870229">
+            <state line="42" column="56" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.3129771">
               <folding />
             </state>
           </provider>
@@ -600,7 +598,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/njax/lib/njax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="56" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.6870229">
+        <state line="42" column="56" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.3129771">
           <folding />
         </state>
       </provider>
