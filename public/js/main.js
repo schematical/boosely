@@ -53,7 +53,9 @@ window.boosley = function(){
     $('.lnk-img').click(function(e){
         var jThis = $(this);
         e.preventDefault();
-        $('#img-modal').attr('src',jThis.attr('href'));
+        var src = jThis.attr('href');
+        console.log(src);
+        $('#img-modal').attr('src',src);
         $('#modal-caption').text(jThis.attr('data-caption'));
         $('#div-modal').modal('show')
     })

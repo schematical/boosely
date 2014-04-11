@@ -23,7 +23,7 @@ body{
 }
 .section-inner-bkgd {
 
-    opacity:1;
+    opacity:.6;
 
     top: 0;
     left: 0;
@@ -44,6 +44,9 @@ body{
     right: 0;
     position: absolute;
     z-index: -5;
+}
+.section:hover .section-inner{
+    opacity:0.7;
 }
 .section:nth-child(even) .section-inner {
     color:#ddd;
