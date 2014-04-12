@@ -18,21 +18,23 @@ window.boosley = function(){
                     if(display == 1){
                         measurement = 'Minute';
                     }
-                }
-                if(display > 60){
-                    display = display / 60;
-                    measurement = 'Hours';
-                    if(display == 1){
-                        measurement = 'Hour';
+                    if(display > 60){
+                        display = display / 60;
+                        measurement = 'Hours';
+                        if(display == 1){
+                            measurement = 'Hour';
+                        }
+                        if(display > 24){
+                            display = display / 24;
+                            measurement = 'Days';
+                            if(display == 1){
+                                measurement = 'Day';
+                            }
+                        }
                     }
                 }
-                if(display > 24){
-                    display = display / 24;
-                    measurement = 'Days';
-                    if(display == 1){
-                        measurement = 'Day';
-                    }
-                }
+
+
                 text = 'Starts in ' + Math.round(display) + ' ' + measurement;
             }else if(seconds > -3600){
                 var display = seconds + 3600;
