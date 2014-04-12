@@ -5,7 +5,7 @@ window.boosley = function(){
             var jEle = $(jColl[i]);
             var _date = new Date(jEle.attr('data-date'));
 
-            var seconds = (_date.getTime() - new Date().getTime())/1000;
+            var seconds = ((_date.getTime() - new Date().getTime())/1000) -3600;
             var text = '';
             if(seconds > 0){
 
